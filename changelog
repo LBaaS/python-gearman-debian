@@ -1,0 +1,5 @@
+gearman (2.0.2-1) stable; urgency=low
+
+  * source package automatically created by stdeb 0.6.0+git
+
+ -- Matthew Tai <mtai@yelp.com>  Sat, 31 Aug 2013 16:22:40 +0000
