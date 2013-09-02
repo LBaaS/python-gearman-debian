@@ -1,3 +1,9 @@
+gearman (2.0.2-2libra1) precise; urgency=high
+
+  * Change version
+
+ -- Endre Karlson <endre.karlson@hp.com>  Mon, 02 Sep 2013 17:18:37 +0200
+
 gearman (2.0.2-2) precise; urgency=high
 
   * Fix changelog
