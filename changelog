@@ -1,3 +1,9 @@
+gearman (2.0.2-2libra2) precise; urgency=high
+
+  * Supports TCP keepalive, pre-release required for libra
+
+ -- Andrew Hutchings <andrew@linuxjedi.co.uk>  Tue, 17 Sep 2013 11:25:14 +0100
+
 gearman (2.0.2-2libra1) precise; urgency=high
 
   * Change version
