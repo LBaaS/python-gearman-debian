@@ -1,3 +1,10 @@
+gearman (2.0.2.git3-1) precise; urgency=high
+
+  * Switching to keepalive branch in https://github.com/LBaaS/python-gearman
+  * Remove epoll/poll support due to eventlet locking
+
+ -- Andrew Hutchings <andrew@linuxjedi.co.uk>  Mon, 23 Sep 2013 22:06:56 +0100
+
 gearman (2.0.2.git2-1) precise; urgency=high
 
   * Supports TCP keepalive, pre-release required for libra
