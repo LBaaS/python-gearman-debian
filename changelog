@@ -1,3 +1,9 @@
+gearman (2.0.2.git4-1) precise; urgency=high
+
+  * SSL releated bug fix
+
+ -- Andrew Hutchings <andrew@linuxjedi.co.uk>  Wed, 16 Oct 2013 18:55:07 +0100
+
 gearman (2.0.2.git3-1) precise; urgency=high
 
   * Switching to keepalive branch in https://github.com/LBaaS/python-gearman
