@@ -1,3 +1,9 @@
+gearman (2.0.2.git5-1) precise; urgency=high
+
+  * Garbage collection corruption fixes
+
+ -- Andrew Hutchings <andrew@linuxjedi.co.uk>  Mon, 03 Mar 2014 11:25:37 +0100
+
 gearman (2.0.2.git4-1) precise; urgency=high
 
   * SSL releated bug fix
