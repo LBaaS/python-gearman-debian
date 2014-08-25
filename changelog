@@ -1,3 +1,9 @@
+gearman (2.0.2.git6-1) precise; urgency=medium
+
+  * LBAAS-681 Added a timeout to the initial gearman connection/handshake
+
+ -- Michael Johnson <johnsom@hp.com>  Mon, 25 Aug 2014 21:24:42 +0000
+
 gearman (2.0.2.git5-1) precise; urgency=high
 
   * Garbage collection corruption fixes
